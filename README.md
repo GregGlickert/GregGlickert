@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a Ph.D. student in Computer Engineering at the Univers
 ### 2. [Basics of neurons and Networks](https://github.com/cyneuro/Basics-of-Neurons-and-Networks)
 **Description:** A collection of Jupyter notebooks that cover theory in neuroscience using computional neuroscience notebooks as hands on examples
 
-**Tech Stack:** Python, Neuron, Jypyter
+**Tech Stack:** Python, Neuron, Jupyter
 
 
 ## 🔧 Technologies & Tools
