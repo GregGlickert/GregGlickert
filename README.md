@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Greg Glickert!
+# 👋 Hi, I'm Gregory Glickert!
 
 Welcome to my GitHub! I'm a Ph.D. student in Computer Engineering at the University of Missouri, with a strong background in computational neuroscience and data science. My research focuses on developing computational models of neural circuits and processing pipelines for neuroscience data.
 
