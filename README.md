@@ -9,6 +9,10 @@ Welcome to my GitHub! I'm a Ph.D. student in Computer Engineering at the Univers
 **Description:** A python library to assist with development of single cells, synapses and networks in BMTK and NEURON 
 **Tech Stack:** Python, Neuron
 
+### 2. [Basics of neurons and Networks](https://github.com/cyneuro/Basics-of-Neurons-and-Networks)
+**Description:** A collection of Jupyter notebooks that cover theory in neuroscience using computional neuroscience notebooks as hands on examples
+**Tech Stack:** Python, Neuron, Jypyter
+
 
 ## 🔧 Technologies & Tools
 - **Programming Languages:** Python, R, SQL, C, NEURON
