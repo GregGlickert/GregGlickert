@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a Ph.D. student in Computer Engineering at the University of Missouri, with a strong background in computational neuroscience and data science. My research focuses on developing computational models of neural circuits and processing pipelines for neuroscience data.
 
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 ### 1. [BMTOOL](https://github.com/cyneuro/bmtool)
 **Description:** A python library to assist with development of single cells, synapses and networks in BMTK and NEURON 
