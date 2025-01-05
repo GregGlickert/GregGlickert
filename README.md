@@ -15,6 +15,11 @@ Welcome to my GitHub! I'm a Ph.D. student in Computer Engineering at the Univers
 
 **Tech Stack:** Python, Neuron, Jupyter
 
+### 3. [Neural-Networks-Machine-Learning](https://github.com/cyneuro/Neural-Networks-Machine-Learning)
+**Description:** A collection of Jupyter notebooks that cover theory in Regression, machine learning and control systems.
+
+**Tech Stack:** Python, PyTorch, Jupyter
+
 
 ## 🔧 Technologies & Tools
 - **Programming Languages:** Python, R, SQL, C, NEURON
